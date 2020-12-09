@@ -102,7 +102,6 @@
 			</style>
 			<div class="container">
 				<h1>sergix.dev</h1>
-        <a href="#" onclick="var timeLeft = 3000; setTimeout(() => {document.getElementsByTagName('html')[0].remove();}, timeLeft);document.getElementsByTagName('h1')[0].innerText = timeLeft / 1000;setInterval(() => {timeLeft -= 1000; document.getElementsByTagName('h1')[0].innerText = timeLeft / 1000;}, 1000);">Self-Destruct</a>
 			</div>
 		</div>
 	</foreignObject>
